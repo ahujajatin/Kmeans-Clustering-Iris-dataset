@@ -1,1 +1,1 @@
-# Kmeans-clustering-Iris-dataset
+# Kmeans-Clustering-Iris-dataset
